@@ -1,5 +1,10 @@
-# clem0316
-<picture>
- <source srcset="https://res.cloudinary.com/dzq7b6tce/image/upload/v1688325813/GitHub%20illustration/HD_3_fuc5wt.jpg">
- <img alt="YOUR-ALT-TEXT" src="https://res.cloudinary.com/dzq7b6tce/image/upload/v1688325813/GitHub%20illustration/HD_3_fuc5wt.jpg">
-</picture>
+## About me
+Welcome to my profile !
+
+My name is Clément,
+After 20 years of marriage with the cinema, I am now passionate about the code! 
+
+I suggest you to discover my Work in progress "Project-SoundDesigner". 
+The purpose of this project is to share some sound experience about creating Sound design for features. 
+
+For now, the first accessible page will allow you to play with sound families = mute some tracks clicking on &#x1F508
