@@ -13,6 +13,6 @@ For now, the first accessible page will allow you to play with sound families = 
 
 Don't hesitate to help me to improve my code.
 
-[I am looking for an apprenticeship from October 2023]
+:eight_pointed_black_star: I am looking for an apprenticeship from October 2023 :eight_pointed_black_star:
 
 [HTML - CSS - JS - REACT - Node.JS - EXPRESS]
