@@ -1,4 +1,3 @@
-## About me
 Welcome to my profile !
 
 My name is Clément,
