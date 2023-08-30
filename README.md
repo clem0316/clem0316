@@ -20,4 +20,4 @@ Don't hesitate to help me to improve my code.
 
 [HTML - CSS - JS - REACT - Node.JS - EXPRESS]
 
-![Cover](https://github.com/clem0316/clem0316/blob/master/Couverture.jpp)
+![Cover](https://github.com/clem0316/clem0316/Couverture.jpp)
