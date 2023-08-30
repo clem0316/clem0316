@@ -8,7 +8,9 @@ After many years of marriage with the cinema, I am now passionate about the code
 
 &#127909; &#10145; &#127979;    :desktop_computer:  &#128284;    &#11088; APPRENTICESHIP &#11088; 
 
-
+<br/>
+<br/>
+<br/>
 
 => I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. Repository "PortfolioVercel".
 And see the result here : https://mon-portfolio-pi.vercel.app/
