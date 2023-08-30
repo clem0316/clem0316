@@ -34,7 +34,7 @@ Don't hesitate to help me to improve my code.
 
 * 🌍  I'm based in Paris and Toulouse
 * ✉️  You can contact me at [clementbadin@gmail.com](mailto:clementbadin@gmail.com)
-*  * 🧠  I'm learning TypeScript, React
+* 🧠  I'm actually learning TypeScript, React
 
 
 
