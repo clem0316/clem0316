@@ -5,13 +5,11 @@ My name is Clément,
 I am an apprentice in ADA Tech School, who loves frontend, Javascript, React and learning !  
 
 <br/>
-<br/>
 
 After many years of marriage with the cinema, I am now passionate about the code ! 
 
 &#127909; &#10145; &#127979;    :desktop_computer:  &#128284;    &#11088; APPRENTICESHIP &#11088; 
 
-<br/>
 <br/>
 
 => I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. Repository "PortfolioVercel".
