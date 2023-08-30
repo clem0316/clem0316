@@ -20,5 +20,3 @@ Don't hesitate to help me to improve my code.
 :eight_pointed_black_star: I am looking for an apprenticeship from October 2023 :eight_pointed_black_star:
 
 [HTML - CSS - JS - REACT - Node.JS - EXPRESS]
-
-![Cover] (Image 30-08-2023 à 15.14.jpeg)
