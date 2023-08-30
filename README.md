@@ -2,7 +2,7 @@
 
 My name is Clément, 
 
-:school_satchel: I am an apprentice in ADA Tech School. 
+:school_satchel: I am an apprentice in ADA Tech School. <br/>
 :computer: I love frontend, UX, Javascript, React and learning !  
 
 <br/>
