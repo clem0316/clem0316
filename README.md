@@ -30,7 +30,7 @@ Don't hesitate to help me to improve my code.
 
 <br/>
 
-:eight_pointed_black_star: I am looking for an apprenticeship from October 2023 :eight_pointed_black_star:
+### :eight_pointed_black_star: I am looking for an apprenticeship from October 2023 :eight_pointed_black_star:
 
 * 🌍  I'm based in Paris and Toulouse
 * ✉️  You can contact me at [clementbadin@gmail.com](mailto:clementbadin@gmail.com)
