@@ -2,7 +2,7 @@
 
 My name is Clément, 
 
-I am an apprentice in ADA Tech School, who loves frontend, Javascript, React and learning !  
+I am an apprentice in ADA Tech School. I love frontend, UX, Javascript, React and learning !  
 
 <br/>
 
