@@ -9,7 +9,7 @@ My name is Clément,
 
 After many years of marriage with the cinema, I am now passionate about the code ! 
 
-&#127909; &#10145; &#127979;    :desktop_computer:  &#128284;    &#11088; APPRENTICESHIP &#11088; 
+&#127909; &#10145; &#127979;    :desktop_computer:  &#128284;    :small_orange_diamond: APPRENTICESHIP :small_orange_diamond: 
 
 <br/>
 
