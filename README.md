@@ -12,7 +12,7 @@ After many years of marriage with the cinema, I am now passionate about the code
 
 <br/>
 
-=> I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository ["PortfolioVercel"](https://github.com/clem0316/mon_Portfolio)].
+=> I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository : https://github.com/clem0316/mon_Portfolio].
 And see the result here : https://mon-portfolio-pi.vercel.app/
 
 <br/>
