@@ -23,8 +23,9 @@ Here >> https://github.com/clem0316/Projet_MontageSon
 The purpose of this project is to share some sound experience about creating Sound design for features. 
 
 For now, the first accessible page will allow you to play with sound families = mute some tracks clicking on &#128264; or isolate a sound family by clicking on "solo".
+
 <br/>
-<br/>
+
 Don't hesitate to help me to improve my code.
 
 <br/>
