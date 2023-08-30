@@ -12,12 +12,12 @@ After many years of marriage with the cinema, I am now passionate about the code
 
 <br/>
 
-=> I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. Repository "PortfolioVercel".
+=> I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository ["PortfolioVercel"](https://github.com/clem0316/mon_Portfolio)].
 And see the result here : https://mon-portfolio-pi.vercel.app/
 
 <br/>
 
-=> You can also discover my Work in progress "Projet-SoundDesigner". 
+=> You can also discover my Work in progress "Montage Son". 
 Here >> https://github.com/clem0316/Projet_MontageSon
 
 The purpose of this project is to share some sound experience about creating Sound design for features. 
