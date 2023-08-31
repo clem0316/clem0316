@@ -16,6 +16,8 @@ After many years of marriage with the cinema as a Sound Designer, I am now passi
 
 <br/>
 
+### Projects
+
 :triangular_flag_on_post: => I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository : https://github.com/clem0316/mon_Portfolio].
 And see the result here : https://mon-portfolio-pi.vercel.app/
 
@@ -31,7 +33,7 @@ For now, the first accessible page will allow you to play with sound families = 
 <br/>
 
 :triangular_flag_on_post: => Finally, you'll find here a fullstack project about a platform for selling furniture.
-Here >> https://github.com/clem0316/Projet_MontageSon
+Here >> https://github.com/clem0316/Around_the_meuble
 
 <br/>
 
