@@ -20,7 +20,7 @@ After many years of marriage with the cinema as a Sound Designer, I am now passi
 
 ### Projects
 
-:triangular_flag_on_post: => I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository : https://github.com/clem0316/mon_Portfolio].
+:triangular_flag_on_post: => I suggest you to discover my old life through this project : the creation of a siteweb for a sound designer artist. [Repository : https://github.com/clem0316/Website-Sound-Designer/tree/main].
 And see the result here : https://mon-portfolio-xi.vercel.app/
 
 <br/>
