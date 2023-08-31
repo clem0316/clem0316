@@ -1,5 +1,7 @@
 ## Welcome to my profile !
 
+![cover] (https://github.com/clem0316/clem0316/blob/61abe23f543c1365b2eb901b3326b145fa2693dc/img/banniere.jpg)
+
 My name is Clément, 
 
 :school_satchel: I am an apprentice in ADA Tech School. <br/>
