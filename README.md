@@ -5,7 +5,7 @@
 
 My name is Clément, 
 
-:school_satchel: I am an apprentice in ADA Tech School. <br/>
+:school_satchel: I am a Fullstack Javascript apprentice in ADA Tech School. <br/>
 :rainbow: I love frontend, UX, Javascript, React and learning !  
 
 <br/>
