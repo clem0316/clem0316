@@ -10,7 +10,7 @@ My name is Clément,
 
 <br/>
 
-After many years of marriage with the cinema, I am now passionate about the code ! 
+After many years of marriage with the cinema as a Sound Designer, I am now passionate about the code ! 
 
 &#127909; &#10145; &#127979;      &#128284;    :small_orange_diamond: APPRENTICESHIP :small_orange_diamond: 
 
