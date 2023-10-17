@@ -8,7 +8,7 @@
 My name is Clément, 
 
 :school_satchel: I am a Fullstack Javascript apprentice in ADA Tech School. <br/>
-:rainbow: I love frontend, UX, Javascript, React and learning !  
+:rainbow: I love frontend, UX, Javascript, React, Tailwind and learning !  
 
 <br/>
 
@@ -47,7 +47,7 @@ Don't hesitate to help me to improve my code.
 
 * 🌍  I'm based in Paris and Toulouse
 * ✉️  You can contact me at [clementbadin@gmail.com](mailto:clementbadin@gmail.com)
-* 🧠  I'm actually learning TypeScript, React
+* 🧠  I'm actually learning TypeScript and C#
 
 
 
